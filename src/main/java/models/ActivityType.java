@@ -1,14 +1,3 @@
-package models;
+// legacy/placeholder file - moved to com.fitness.models.ActivityType
+// original file retained for reference; please remove if not needed.
 
-public enum ActivityType {
-    RUNNING,
-    WALKING,
-    CYCLING,
-    SWIMMING,
-    WEIGHT_TRAINING,
-    YOGA,
-    HIIT,
-    CARDIO,
-    STRETCHING,
-    OTHER
-}

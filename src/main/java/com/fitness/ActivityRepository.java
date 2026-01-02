@@ -1,6 +1,6 @@
 package com.fitness;
 
-import models.Activity;
+import com.fitness.models.Activity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

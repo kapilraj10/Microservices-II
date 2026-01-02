@@ -1,10 +1,10 @@
-package service;
+package com.fitness.service;
 
 import com.fitness.ActivityRepository;
-import dto.ActivityRequest;
-import dto.ActivityResponse;
+import com.fitness.dto.ActivityRequest;
+import com.fitness.dto.ActivityResponse;
+import com.fitness.models.Activity;
 import lombok.RequiredArgsConstructor;
-import models.Activity;
 import org.springframework.stereotype.Service;
 
 @Service
