@@ -15,6 +15,7 @@ public class ActivityService {
 
     public ActivityResponse trackActivity(ActivityRequest request) {
 
+
         Activity activity = Activity.builder()
                 .userId(request.getUserId())
                 .type(request.getType())

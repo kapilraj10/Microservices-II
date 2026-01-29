@@ -85,6 +85,12 @@
 			<optional>true</optional>
 		</dependency>
 
+         <!-- Webflux-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-webflux</artifactId>
+		</dependency>
+
 		<!-- Actuator (Monitoring) -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
